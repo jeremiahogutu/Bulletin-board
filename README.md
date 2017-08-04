@@ -1,2 +1,2 @@
-# React-note-board-site
-note board
+# Bulletin-board
+add sticky notes to the site
